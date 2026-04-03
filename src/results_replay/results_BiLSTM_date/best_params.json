@@ -1,0 +1,6 @@
+{
+    "num_units": 96,
+    "dropout": 0.4,
+    "hidden_units": 32,
+    "learning_rate": 0.0001
+}

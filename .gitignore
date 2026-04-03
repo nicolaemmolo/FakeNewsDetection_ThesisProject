@@ -1,0 +1,9 @@
+Word2Vec_GoogleNews300/
+.DS_Store
+datasets/ISOT/df_isot.csv
+datasets/Kaggle_clement/df_kaggle_clement.csv
+src/__pycache__/
+src/utils/__pycache__/
+src/logs/
+src/tmp/
+src/utils/utils_continual/__pycache__/

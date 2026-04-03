@@ -1,0 +1,7 @@
+{
+    "filter_size": 5,
+    "num_filters": 96,
+    "dropout": 0.2,
+    "hidden_units": 32,
+    "learning_rate": 0.0001
+}

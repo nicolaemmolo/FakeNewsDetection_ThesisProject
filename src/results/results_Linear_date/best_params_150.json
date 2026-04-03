@@ -1,0 +1,7 @@
+{
+    "loss": "log_loss",
+    "penalty": "l1",
+    "alpha": 1e-06,
+    "learning_rate": "optimal",
+    "eta0": 0.1
+}

@@ -1,0 +1,7 @@
+{
+    "C": 1.0,
+    "loss": "hinge",
+    "average": true,
+    "fit_intercept": true,
+    "class_weight": null
+}
