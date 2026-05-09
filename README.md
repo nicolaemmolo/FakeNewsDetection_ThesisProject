@@ -41,7 +41,8 @@ To properly measure the success of the CL strategies, two baselines were establi
 Based on the experimental setup, the repository is organized as follows:
 
 ### `datasets/`
-This folder contains the data collected for the experiments. *Note: Due to file size limitations, the **ISOT** and **Kaggle-Clement** datasets are not included in this repository.*
+This folder contains the data collected for the experiments.
+*Note: Due to file size limitations, the **ISOT** and **Kaggle-Clement** datasets are not included in this repository.*
 
 The datasets utilized cover various domains and timeframes:
 * **Celebrity:** Focuses on the entertainment and gossip domain, pairing fake tabloid news with contemporary legitimate news.
@@ -64,3 +65,6 @@ This directory contains the core execution files of the project. Inside, you wil
 * Directories containing the output results of the experiments.
 * Jupyter Notebooks used for generating plots and visualizing the data.
 
+### `Word2Vec_GoogleNews300/`
+This folder contains the pre-trained **Word2Vec embeddings (Google News, 300d)** used to initialize the Deep Learning models (CNN and BiLSTM). 
+*Note: Due to its significant file size, this directory is not included in the repository. You can download it on [https://code.google.com/archive/p/word2vec/](https://code.google.com/archive/p/word2vec/).*
