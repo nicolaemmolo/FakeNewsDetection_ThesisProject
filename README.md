@@ -1,4 +1,4 @@
-# Fake News Detection – Project for MD Thesis
+# Fake News Detection – Project for MD Thesis
 
 ## Overview
 This repository contains the code for the Master's Thesis: **"Evaluating the Robustness of Fake News Detection Models under Semantic and Temporal Concept Drift"** by Nicola Emmolo (University of Pisa).
