@@ -72,5 +72,5 @@ This folder contains the pre-trained **Word2Vec embeddings (Google News, 300d)**
 ### `requirements.txt`
 This file contains the list of all Python libraries and dependencies required to run the project. It ensures that the environment is consistent and that the code executes correctly.
 
-### `Tesi_Emmolo.pdf`
+### `Thesis_Emmolo.pdf`
 The complete Master's Thesis document. It provides the full theoretical framework, detailed methodology, experimental setup, and an in-depth discussion of the research results.
