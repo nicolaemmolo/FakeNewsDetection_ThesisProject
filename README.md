@@ -1,4 +1,4 @@
-# Fake News Detection – Project for MD Thesis
+# Fake News Detection – Project for MD Thesis
 
 ## Overview
 This repository contains the code for the Master's Thesis: **"Evaluating the Robustness of Fake News Detection Models under Semantic and Temporal Concept Drift"** by Nicola Emmolo (University of Pisa).
@@ -72,5 +72,5 @@ This folder contains the pre-trained **Word2Vec embeddings (Google News, 300d)**
 ### `requirements.txt`
 This file contains the list of all Python libraries and dependencies required to run the project. It ensures that the environment is consistent and that the code executes correctly.
 
-### `Tesi_Emmolo.pdf`
+### `Thesis_Emmolo.pdf`
 The complete Master's Thesis document. It provides the full theoretical framework, detailed methodology, experimental setup, and an in-depth discussion of the research results.
