@@ -67,7 +67,7 @@ This directory contains the core execution files of the project. Inside, you wil
 
 ### `Word2Vec_GoogleNews300/`
 This folder contains the pre-trained **Word2Vec embeddings (Google News, 300d)** used to initialize the Deep Learning models (CNN and BiLSTM). 
-*Note: Due to its significant file size, this directory is not included in the repository. You can download it on [https://code.google.com/archive/p/word2vec/](https://code.google.com/archive/p/word2vec/).*
+*Note: Due to its significant file size, the model is not included in the repository. You can download it on [https://code.google.com/archive/p/word2vec/](https://code.google.com/archive/p/word2vec/).*
 
 ### `requirements.txt`
 This file contains the list of all Python libraries and dependencies required to run the project. It ensures that the environment is consistent and that the code executes correctly.
