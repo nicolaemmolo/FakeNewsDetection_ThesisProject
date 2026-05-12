@@ -1,4 +1,3 @@
-Word2Vec_GoogleNews300/
 .DS_Store
 datasets/ISOT/df_isot.csv
 datasets/Kaggle_clement/df_kaggle_clement.csv
